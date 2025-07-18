@@ -49,7 +49,7 @@ Results are saved in the `results/` folder.
 
 ```text
 /
-├── Image_Quilting_Project2.ipynb       # ✔️ Main notebook (moved up one directory)
+├── Image_Quilting_Project2.ipynb       # ✔️ Main notebook
 ├── utils.py                            # ✔️ Contains seam finding helper (`cut`)
 ├── samples/                            # ✔️ Input texture and target images
 ├── results/                            # ✔️ Generated outputs
